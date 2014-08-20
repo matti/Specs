@@ -8,8 +8,8 @@
     "Robbie Hanson": "cocoahttpserver@googlegroups.com"
   },
   "source": {
-    "git": "https://github.com/robbiehanson/CocoaHTTPServer.git",
-    "tag": "2.3"
+    "git": "https://github.com/matti/CocoaHTTPServer.git",
+    "tag": "2.3-with-pr-94"
   },
   "source_files": "{Core,Extensions}/**/*.{h,m}",
   "requires_arc": true,
